@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Tourx.iml" filepath="$PROJECT_DIR$/.idea/modules/Tourx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Tourx.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Tourx.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1882183016/Tourx.react-native-community_blur.iml" filepath="$PROJECT_DIR$/.idea/modules/-1882183016/Tourx.react-native-community_blur.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-422666879/Tourx.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-422666879/Tourx.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-134753285/Tourx.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-134753285/Tourx.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1804576342/Tourx.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1804576342/Tourx.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-686430654/Tourx.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-686430654/Tourx.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-947419885/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-947419885/react-native-gradle-plugin.iml" />
+    </modules>
+  </component>
+</project>

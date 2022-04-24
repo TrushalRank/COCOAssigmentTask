@@ -1,0 +1,4 @@
+#Sun Apr 24 09:43:13 IST 2022
+base.0=/Users/trushal/Documents/Assignment/UITask/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
