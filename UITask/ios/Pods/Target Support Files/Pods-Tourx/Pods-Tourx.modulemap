@@ -1,0 +1,6 @@
+module Pods_Tourx {
+  umbrella header "Pods-Tourx-umbrella.h"
+
+  export *
+  module * { export * }
+}
