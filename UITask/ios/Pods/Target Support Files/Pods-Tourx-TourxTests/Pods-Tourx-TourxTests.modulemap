@@ -1,0 +1,6 @@
+module Pods_Tourx_TourxTests {
+  umbrella header "Pods-Tourx-TourxTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
